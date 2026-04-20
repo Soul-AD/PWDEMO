@@ -1,0 +1,2 @@
+Duplicate options are:===> [ 'Red', 'Green' ]
+Duplicate options found. [ 'Red', 'Green' ]

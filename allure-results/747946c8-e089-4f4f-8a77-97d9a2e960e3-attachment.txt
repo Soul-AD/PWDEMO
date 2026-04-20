@@ -1,0 +1,33 @@
+{
+  bookingid: 2368,
+  booking: {
+    firstname: 'Jim',
+    lastname: 'Brown',
+    totalprice: 1000,
+    depositpaid: true,
+    bookingdates: { checkin: '2025-07-01', checkout: '2025-07-05' },
+    additionalneeds: 'super bowls'
+  }
+}
+Booking is created.....
+Booking id===> 2368
+Booking details are......
+{
+  firstname: 'Jim',
+  lastname: 'Brown',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2025-07-01', checkout: '2025-07-05' },
+  additionalneeds: 'super bowls'
+}
+Token ======> a00d2683b680164
+Booking details updated succesfully...
+{
+  firstname: 'John',
+  lastname: 'Kenedy',
+  totalprice: 2000,
+  depositpaid: true,
+  bookingdates: { checkin: '2025-07-01', checkout: '2025-08-01' },
+  additionalneeds: 'orange'
+}
+Booking are deleted successfully.....

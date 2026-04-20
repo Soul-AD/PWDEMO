@@ -1,0 +1,1351 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#MainContent"
+  - banner [ref=e5]:
+    - link "Zodiac Finest Quality Clothing" [ref=e6] [cursor=pointer]:
+      - /url: /
+      - img "Zodiac Finest Quality Clothing" [ref=e8]
+    - navigation [ref=e9]:
+      - list [ref=e10]:
+        - listitem [ref=e11]:
+          - link "NEW ARRIVALS" [ref=e12] [cursor=pointer]:
+            - /url: /collections/new-arrivals
+            - generic [ref=e13]: NEW ARRIVALS
+        - listitem [ref=e14]:
+          - link "BEST SELLERS" [ref=e15] [cursor=pointer]:
+            - /url: /collections/best-sellers
+            - generic [ref=e16]: BEST SELLERS
+        - listitem [ref=e17]:
+          - group [ref=e19]:
+            - button "BRANDS":
+              - link "BRANDS":
+                - /url: "#"
+                - generic: BRANDS
+        - listitem [ref=e20]:
+          - group [ref=e22]:
+            - button "SHIRTS":
+              - link "SHIRTS":
+                - /url: /collections/zodiac-shirts
+                - generic: SHIRTS
+        - listitem [ref=e23]:
+          - group [ref=e25]:
+            - button "TIES":
+              - link "TIES":
+                - /url: /collections/zodiac-ties
+                - generic: TIES
+        - listitem [ref=e26]:
+          - group [ref=e28]:
+            - button "JACKETS":
+              - link "JACKETS":
+                - /url: /collections/jackets
+                - generic: JACKETS
+        - listitem [ref=e29]:
+          - group [ref=e31]:
+            - button "TROUSERS":
+              - link "TROUSERS":
+                - /url: /collections/trousers
+                - generic: TROUSERS
+        - listitem [ref=e32]:
+          - group [ref=e34]:
+            - button "ACCESSORIES":
+              - link "ACCESSORIES":
+                - /url: /collections/accessories
+                - generic: ACCESSORIES
+        - listitem [ref=e35]:
+          - link "POLOS" [ref=e36] [cursor=pointer]:
+            - /url: /collections/super-soft-garment-dyed-polos
+            - generic [ref=e37]: POLOS
+        - listitem [ref=e38]:
+          - link "COLLECTIONS" [ref=e39] [cursor=pointer]:
+            - /url: /pages/test
+            - generic [ref=e40]: COLLECTIONS
+    - generic [ref=e41]:
+      - group [ref=e43]:
+        - button "Search" [ref=e44] [cursor=pointer]:
+          - img [ref=e46]
+      - link "Store Locator" [ref=e49] [cursor=pointer]:
+        - /url: /a/storelocator
+        - img [ref=e51]
+      - link "Wishlist" [ref=e54] [cursor=pointer]:
+        - /url: /apps/wishlists
+        - img [ref=e57]
+      - link "Cart" [ref=e59] [cursor=pointer]:
+        - /url: /cart
+        - img [ref=e61]
+        - generic [ref=e63]: Cart
+      - link "Log in" [ref=e64] [cursor=pointer]:
+        - /url: /account/login
+        - img [ref=e66]
+        - generic [ref=e68]: Log in
+  - main [ref=e69]:
+    - generic [ref=e73]:
+      - 'heading "Collection: ZODIAC SHIRTS" [level=1] [ref=e74]':
+        - generic [ref=e75]: "Collection:"
+        - text: ZODIAC SHIRTS
+      - generic [ref=e76]:
+        - text: Established In The Late 50's, ZODIAC Has Evolved Into A Leader In Men's Fine Clothing And Accessories. Today, The Name Represents An International Symbol Of Modern Style And Time Honoured ...
+        - button "Read More" [ref=e77] [cursor=pointer]
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - text: Sort
+          - generic [ref=e89]:
+            - text: ":"
+            - generic [ref=e90]:
+              - generic "Relevance" [ref=e91] [cursor=pointer]
+              - generic "Best Seller" [ref=e92] [cursor=pointer]
+              - 'generic "Price: High to Low" [ref=e93] [cursor=pointer]'
+              - 'generic "Price: Low to High" [ref=e94] [cursor=pointer]'
+              - generic "Newest First" [ref=e95] [cursor=pointer]
+        - paragraph [ref=e97]: Filter
+        - generic [ref=e98]:
+          - generic "Product Type" [ref=e100] [cursor=pointer]:
+            - generic [ref=e101]: Product Type
+          - generic "Brands" [ref=e104] [cursor=pointer]:
+            - generic [ref=e105]: Brands
+          - generic "Color" [ref=e108] [cursor=pointer]:
+            - generic [ref=e109]: Color
+          - generic "Size" [ref=e112] [cursor=pointer]:
+            - generic [ref=e113]: Size
+          - generic "Style" [ref=e116] [cursor=pointer]:
+            - generic [ref=e117]: Style
+          - generic "Pattern" [ref=e120] [cursor=pointer]:
+            - generic [ref=e121]: Pattern
+          - generic "Fabric" [ref=e124] [cursor=pointer]:
+            - generic [ref=e125]: Fabric
+          - generic "Fit" [ref=e128] [cursor=pointer]:
+            - generic [ref=e129]: Fit
+          - generic "Collar" [ref=e132] [cursor=pointer]:
+            - generic [ref=e133]: Collar
+          - generic "Sleeves" [ref=e136] [cursor=pointer]:
+            - generic [ref=e137]: Sleeves
+          - generic "Cuff" [ref=e140] [cursor=pointer]:
+            - generic [ref=e141]: Cuff
+          - generic "Price" [ref=e144] [cursor=pointer]:
+            - generic [ref=e145]: Price
+      - generic [ref=e147]:
+        - link "Filter & Sort" [ref=e150] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e152]: Filter & Sort
+        - generic [ref=e153]: 875 products
+        - list [ref=e155]:
+          - listitem "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e156]:
+            - generic [ref=e158]:
+              - generic [ref=e159]:
+                - generic [ref=e161]: best seller
+                - generic [ref=e162]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt":
+                    - /url: https://zodiaconline.com/products/barboni-white-solid-full-sleeve-single-cuff-classic-fit-classic-formal-cotton-shirt-12933-14223-c?variant=55464999682121
+                    - img "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e164] [cursor=pointer]
+              - generic [ref=e167]:
+                - generic [ref=e168]:
+                  - heading "Classic Fit" [level=2] [ref=e169]
+                  - generic [ref=e170]:
+                    - img [ref=e172] [cursor=pointer]
+                    - img [ref=e176] [cursor=pointer]
+                    - img [ref=e183]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e185]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e186] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/barboni-white-solid-full-sleeve-single-cuff-classic-fit-classic-formal-cotton-shirt-12933-14223-c?variant=55464999682121
+                - generic [ref=e190]:
+                  - generic [ref=e191]: Regular price
+                  - generic [ref=e192]: ₹4,213
+          - listitem "Monteverdi White Solid Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e193]:
+            - generic [ref=e195]:
+              - generic [ref=e197]:
+                - link "Monteverdi White Solid Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/monteverdi-white-solid-full-sleeve-double-cuff-classic-fit-classic-formal-cotton-shirt-11959-10235-c?variant=55464915337289
+                  - img "Monteverdi White Solid Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e199] [cursor=pointer]
+              - generic [ref=e202]:
+                - generic [ref=e203]:
+                  - heading "Classic Fit" [level=2] [ref=e204]
+                  - generic [ref=e205]:
+                    - img [ref=e207] [cursor=pointer]
+                    - img [ref=e211] [cursor=pointer]
+                    - img [ref=e218]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e220]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e221] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/monteverdi-white-solid-full-sleeve-double-cuff-classic-fit-classic-formal-cotton-shirt-11959-10235-c?variant=55464915337289
+                    - text: Monteverdi White Solid Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e225]:
+                  - generic [ref=e226]: Regular price
+                  - generic [ref=e227]: ₹4,634
+          - listitem "Cione Aqua Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e228]:
+            - generic [ref=e230]:
+              - generic [ref=e232]:
+                - link "Cione Aqua Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/cione-aqua-solid-full-sleeve-single-cuff-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13656-17783-co?variant=55465091792969
+                  - img "Cione Aqua Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e234] [cursor=pointer]
+              - generic [ref=e237]:
+                - generic [ref=e238]:
+                  - heading "Tailored Fit" [level=2] [ref=e239]
+                  - generic [ref=e240]:
+                    - img [ref=e242] [cursor=pointer]
+                    - img [ref=e246] [cursor=pointer]
+                    - img [ref=e253]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e255]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e256] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/cione-aqua-solid-full-sleeve-single-cuff-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13656-17783-co?variant=55465091792969
+                    - text: Cione Aqua Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e260]:
+                  - generic [ref=e261]: Regular price
+                  - generic [ref=e262]: ₹4,529
+          - listitem "Barboni Blue Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e263]:
+            - generic [ref=e265]:
+              - generic [ref=e267]:
+                - link "Barboni Blue Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/barboni-tailored-fit-blue-shirt-1212-7865?variant=55464889155657
+                  - img "Barboni Blue Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e269] [cursor=pointer]
+              - generic [ref=e272]:
+                - generic [ref=e273]:
+                  - heading "Tailored Fit" [level=2] [ref=e274]
+                  - generic [ref=e275]:
+                    - img [ref=e277] [cursor=pointer]
+                    - img [ref=e281] [cursor=pointer]
+                    - img [ref=e288]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e290]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e291] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/barboni-tailored-fit-blue-shirt-1212-7865?variant=55464889155657
+                    - text: Barboni Blue Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt
+                - generic [ref=e295]:
+                  - generic [ref=e296]: Regular price
+                  - generic [ref=e297]: ₹4,529
+          - listitem "Cione Olive Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e298]:
+            - generic [ref=e300]:
+              - generic [ref=e302]:
+                - link "Cione Olive Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/cione-olive-solid-full-sleeve-single-cuff-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13809-18363-c?variant=55465104408649
+                  - img "Cione Olive Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e304] [cursor=pointer]
+              - generic [ref=e307]:
+                - generic [ref=e308]:
+                  - heading "Tailored Fit" [level=2] [ref=e309]
+                  - generic [ref=e310]:
+                    - img [ref=e312] [cursor=pointer]
+                    - img [ref=e316] [cursor=pointer]
+                    - img [ref=e323]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e325]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e326] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/cione-olive-solid-full-sleeve-single-cuff-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13809-18363-c?variant=55465104408649
+                    - text: Cione Olive Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e330]:
+                  - generic [ref=e331]: Regular price
+                  - generic [ref=e332]: ₹4,529
+          - listitem "Barboni Sky Striped Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e333]:
+            - generic [ref=e335]:
+              - generic [ref=e336]:
+                - generic [ref=e338]: best seller
+                - generic [ref=e339]:
+                  - link "Barboni Sky Striped Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt":
+                    - /url: https://zodiaconline.com/products/barboni-sky-striped-full-sleeve-single-cuff-classic-fit-classic-formal-silk-touch-egyptian-giza-cotton-shirt-14009-19376-co?variant=55465128951881
+                    - img "Barboni Sky Striped Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e341] [cursor=pointer]
+              - generic [ref=e344]:
+                - generic [ref=e345]:
+                  - heading "Classic Fit" [level=2] [ref=e346]
+                  - generic [ref=e347]:
+                    - img [ref=e349] [cursor=pointer]
+                    - img [ref=e353] [cursor=pointer]
+                    - img [ref=e360]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e362]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e363] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/barboni-sky-striped-full-sleeve-single-cuff-classic-fit-classic-formal-silk-touch-egyptian-giza-cotton-shirt-14009-19376-co?variant=55465128951881
+                    - text: Barboni Sky Striped Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt
+                - generic [ref=e367]:
+                  - generic [ref=e368]: Regular price
+                  - generic [ref=e369]: ₹4,529
+          - listitem "Positano Blue Striped Full Sleeve Single Cuff Classic Fit Semi Formal European Flax Linen Shirt" [ref=e370]:
+            - generic [ref=e372]:
+              - generic [ref=e374]:
+                - link "Positano Blue Striped Full Sleeve Single Cuff Classic Fit Semi Formal European Flax Linen Shirt":
+                  - /url: https://zodiaconline.com/products/positano-blue-striped-full-sleeve-single-cuff-classic-fit-semi-formal-linen-shirt-12991-14565-c?variant=55465009315913
+                  - img "Positano Blue Striped Full Sleeve Single Cuff Classic Fit Semi Formal European Flax Linen Shirt" [ref=e376] [cursor=pointer]
+              - generic [ref=e379]:
+                - generic [ref=e380]:
+                  - heading "Classic Fit" [level=2] [ref=e381]
+                  - generic [ref=e382]:
+                    - img [ref=e384] [cursor=pointer]
+                    - img [ref=e388] [cursor=pointer]
+                    - img [ref=e395]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e397]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e398] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/positano-blue-striped-full-sleeve-single-cuff-classic-fit-semi-formal-linen-shirt-12991-14565-c?variant=55465009315913
+                    - text: Positano Blue Striped Full Sleeve Single Cuff Classic Fit Semi Formal European Flax Linen Shirt
+                - generic [ref=e402]:
+                  - generic [ref=e403]: Regular price
+                  - generic [ref=e404]: ₹5,099
+          - listitem "Da Vinci Cream Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e405]:
+            - generic [ref=e407]:
+              - generic [ref=e409]:
+                - link "Da Vinci Cream Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/da-vinci-cream-solid-full-sleeve-single-cuff-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13239-16128-c?variant=55465057091657
+                  - img "Da Vinci Cream Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e411] [cursor=pointer]
+              - generic [ref=e414]:
+                - generic [ref=e415]:
+                  - heading "Tailored Fit" [level=2] [ref=e416]
+                  - generic [ref=e417]:
+                    - img [ref=e419] [cursor=pointer]
+                    - img [ref=e423] [cursor=pointer]
+                    - img [ref=e430]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e432]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e433] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/da-vinci-cream-solid-full-sleeve-single-cuff-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13239-16128-c?variant=55465057091657
+                    - text: Da Vinci Cream Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e437]:
+                  - generic [ref=e438]: Regular price
+                  - generic [ref=e439]: ₹4,529
+          - listitem "Positano Sky Check Full Sleeve Single Cuff Classic Fit Semi Formal European Flax Linen Shirt" [ref=e440]:
+            - generic [ref=e442]:
+              - generic [ref=e444]:
+                - link "Positano Sky Check Full Sleeve Single Cuff Classic Fit Semi Formal European Flax Linen Shirt":
+                  - /url: https://zodiaconline.com/products/positano-sky-check-full-sleeve-single-cuff-classic-fit-semi-formal-european-flax-linen-shirt-13632-17651-co?variant=55465091825737
+                  - img "Positano Sky Check Full Sleeve Single Cuff Classic Fit Semi Formal European Flax Linen Shirt" [ref=e446] [cursor=pointer]
+              - generic [ref=e449]:
+                - generic [ref=e450]:
+                  - heading "Classic Fit" [level=2] [ref=e451]
+                  - generic [ref=e452]:
+                    - img [ref=e454] [cursor=pointer]
+                    - img [ref=e458] [cursor=pointer]
+                    - img [ref=e465]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e467]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e468] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/positano-sky-check-full-sleeve-single-cuff-classic-fit-semi-formal-european-flax-linen-shirt-13632-17651-co?variant=55465091825737
+                    - text: Positano Sky Check Full Sleeve Single Cuff Classic Fit Semi Formal European Flax Linen Shirt
+                - generic [ref=e472]:
+                  - generic [ref=e473]: Regular price
+                  - generic [ref=e474]: ₹5,056
+          - listitem "Da Vinci Pink Striped Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e475]:
+            - generic [ref=e477]:
+              - generic [ref=e479]:
+                - link "Da Vinci Pink Striped Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/da-vinci-pink-striped-full-sleeve-double-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13795-18235-c?variant=55465099591753
+                  - img "Da Vinci Pink Striped Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e481] [cursor=pointer]
+              - generic [ref=e484]:
+                - generic [ref=e485]:
+                  - heading "Classic Fit" [level=2] [ref=e486]
+                  - generic [ref=e487]:
+                    - img [ref=e489] [cursor=pointer]
+                    - img [ref=e493] [cursor=pointer]
+                    - img [ref=e500]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e502]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e503] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/da-vinci-pink-striped-full-sleeve-double-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13795-18235-c?variant=55465099591753
+                    - text: Da Vinci Pink Striped Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e507]:
+                  - generic [ref=e508]: Regular price
+                  - generic [ref=e509]: ₹4,634
+          - listitem "Vivace Yellow Striped Full Sleeve Single Cuff Tailored Fit Semi Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e510]:
+            - generic [ref=e512]:
+              - generic [ref=e514]:
+                - link "Vivace Yellow Striped Full Sleeve Single Cuff Tailored Fit Semi Formal Silk Touch Egyptian Giza Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/vivace-tailored-fit-yellow-shirt-1218-7937?variant=55464866086985
+                  - img "Vivace Yellow Striped Full Sleeve Single Cuff Tailored Fit Semi Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e516] [cursor=pointer]
+              - generic [ref=e519]:
+                - generic [ref=e520]:
+                  - heading "Tailored Fit" [level=2] [ref=e521]
+                  - generic [ref=e522]:
+                    - img [ref=e524] [cursor=pointer]
+                    - img [ref=e528] [cursor=pointer]
+                    - img [ref=e535]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e537]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e538] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/vivace-tailored-fit-yellow-shirt-1218-7937?variant=55464866086985
+                    - text: Vivace Yellow Striped Full Sleeve Single Cuff Tailored Fit Semi Formal Silk Touch Egyptian Giza Cotton Shirt
+                - generic [ref=e542]:
+                  - generic [ref=e543]: Regular price
+                  - generic [ref=e544]: ₹4,529
+          - listitem "Antonello White Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e545]:
+            - generic [ref=e547]:
+              - generic [ref=e549]:
+                - link "Antonello White Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/antonello-white-striped-full-sleeve-single-cuff-tailored-fit-classic-formal-cotton-shirt-12765-13631-c?variant=55464985919561
+                  - img "Antonello White Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e551] [cursor=pointer]
+              - generic [ref=e554]:
+                - generic [ref=e555]:
+                  - heading "Tailored Fit" [level=2] [ref=e556]
+                  - generic [ref=e557]:
+                    - img [ref=e559] [cursor=pointer]
+                    - img [ref=e563] [cursor=pointer]
+                    - img [ref=e570]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e572]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e573] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/antonello-white-striped-full-sleeve-single-cuff-tailored-fit-classic-formal-cotton-shirt-12765-13631-c?variant=55464985919561
+                    - text: Antonello White Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e577]:
+                  - generic [ref=e578]: Regular price
+                  - generic [ref=e579]: ₹4,529
+          - listitem "Vivace Red Striped Full Sleeve Single Cuff Tailored Fit Semi Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e580]:
+            - generic [ref=e582]:
+              - generic [ref=e584]:
+                - link "Vivace Red Striped Full Sleeve Single Cuff Tailored Fit Semi Formal Silk Touch Egyptian Giza Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/vivace-tailored-fit-red-shirt-1218-7931?variant=55464838725705
+                  - img "Vivace Red Striped Full Sleeve Single Cuff Tailored Fit Semi Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e586] [cursor=pointer]
+              - generic [ref=e589]:
+                - generic [ref=e590]:
+                  - heading "Tailored Fit" [level=2] [ref=e591]
+                  - generic [ref=e592]:
+                    - img [ref=e594] [cursor=pointer]
+                    - img [ref=e598] [cursor=pointer]
+                    - img [ref=e605]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e607]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e608] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/vivace-tailored-fit-red-shirt-1218-7931?variant=55464838725705
+                    - text: Vivace Red Striped Full Sleeve Single Cuff Tailored Fit Semi Formal Silk Touch Egyptian Giza Cotton Shirt
+                - generic [ref=e612]:
+                  - generic [ref=e613]: Regular price
+                  - generic [ref=e614]: ₹4,529
+          - listitem "Barboni Green Check Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e615]:
+            - generic [ref=e617]:
+              - generic [ref=e619]:
+                - link "Barboni Green Check Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/barboni-green-check-full-sleeve-single-cuff-classic-fit-classic-formal-cotton-shirt-12945-14310-c?variant=55465002991689
+                  - img "Barboni Green Check Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e621] [cursor=pointer]
+              - generic [ref=e624]:
+                - generic [ref=e625]:
+                  - heading "Classic Fit" [level=2] [ref=e626]
+                  - generic [ref=e627]:
+                    - img [ref=e629] [cursor=pointer]
+                    - img [ref=e633] [cursor=pointer]
+                    - img [ref=e640]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e642]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e643] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/barboni-green-check-full-sleeve-single-cuff-classic-fit-classic-formal-cotton-shirt-12945-14310-c?variant=55465002991689
+                    - text: Barboni Green Check Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt
+                - generic [ref=e647]:
+                  - generic [ref=e648]: Regular price
+                  - generic [ref=e649]: ₹4,529
+          - listitem "Barboni Sky Check Half Sleeve Classic Fit Classic Formal Egyptian Giza Silk Touch Cotton Shirt" [ref=e650]:
+            - generic [ref=e652]:
+              - generic [ref=e654]:
+                - link "Barboni Sky Check Half Sleeve Classic Fit Classic Formal Egyptian Giza Silk Touch Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/barboni-sky-check-half-sleeve-classic-fit-classic-formal-egyptian-giza-silk-touch-cotton-shirt-13666-17862-co?variant=55465094905929
+                  - img "Barboni Sky Check Half Sleeve Classic Fit Classic Formal Egyptian Giza Silk Touch Cotton Shirt" [ref=e656] [cursor=pointer]
+              - generic [ref=e659]:
+                - generic [ref=e660]:
+                  - heading "Classic Fit" [level=2] [ref=e661]
+                  - generic [ref=e662]:
+                    - img [ref=e664] [cursor=pointer]
+                    - img [ref=e668] [cursor=pointer]
+                    - img [ref=e675]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e677]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e678] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/barboni-sky-check-half-sleeve-classic-fit-classic-formal-egyptian-giza-silk-touch-cotton-shirt-13666-17862-co?variant=55465094905929
+                    - text: Barboni Sky Check Half Sleeve Classic Fit Classic Formal Egyptian Giza Silk Touch Cotton Shirt
+                - generic [ref=e682]:
+                  - generic [ref=e683]: Regular price
+                  - generic [ref=e684]: ₹4,529
+          - listitem "Barboni Blue Striped Full Sleeve Single Cuff Classic Fit Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e685]:
+            - generic [ref=e687]:
+              - generic [ref=e689]:
+                - link "Barboni Blue Striped Full Sleeve Single Cuff Classic Fit Formal Silk Touch Egyptian Giza Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/barboni-classic-fit-blue-shirt-1211-7823?variant=55464791113801
+                  - img "Barboni Blue Striped Full Sleeve Single Cuff Classic Fit Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e691] [cursor=pointer]
+              - generic [ref=e694]:
+                - generic [ref=e695]:
+                  - heading "Classic Fit" [level=2] [ref=e696]
+                  - generic [ref=e697]:
+                    - img [ref=e699] [cursor=pointer]
+                    - img [ref=e703] [cursor=pointer]
+                    - img [ref=e710]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e712]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e713] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/barboni-classic-fit-blue-shirt-1211-7823?variant=55464791113801
+                    - text: Barboni Blue Striped Full Sleeve Single Cuff Classic Fit Formal Silk Touch Egyptian Giza Cotton Shirt
+                - generic [ref=e717]:
+                  - generic [ref=e718]: Regular price
+                  - generic [ref=e719]: ₹4,529
+          - listitem "Barboni Yellow Check Half Sleeve Tailored Fit Classic Formal Egyptian Giza Silk Touch Cotton Shirt" [ref=e720]:
+            - generic [ref=e722]:
+              - generic [ref=e724]:
+                - link "Barboni Yellow Check Half Sleeve Tailored Fit Classic Formal Egyptian Giza Silk Touch Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/barboni-yellow-check-half-sleeve-tailored-fit-classic-formal-egyptian-giza-silk-touch-cotton-shirt-13674-17926-co?variant=55465097297993
+                  - img "Barboni Yellow Check Half Sleeve Tailored Fit Classic Formal Egyptian Giza Silk Touch Cotton Shirt" [ref=e726] [cursor=pointer]
+              - generic [ref=e729]:
+                - generic [ref=e730]:
+                  - heading "Tailored Fit" [level=2] [ref=e731]
+                  - generic [ref=e732]:
+                    - img [ref=e734] [cursor=pointer]
+                    - img [ref=e738] [cursor=pointer]
+                    - img [ref=e745]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e747]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e748] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/barboni-yellow-check-half-sleeve-tailored-fit-classic-formal-egyptian-giza-silk-touch-cotton-shirt-13674-17926-co?variant=55465097297993
+                    - text: Barboni Yellow Check Half Sleeve Tailored Fit Classic Formal Egyptian Giza Silk Touch Cotton Shirt
+                - generic [ref=e752]:
+                  - generic [ref=e753]: Regular price
+                  - generic [ref=e754]: ₹4,529
+          - listitem "Dolcetto Navy Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Silk Touch Egyptian Giza Cotton Shirt" [ref=e755]:
+            - generic [ref=e757]:
+              - generic [ref=e759]:
+                - link "Dolcetto Navy Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Silk Touch Egyptian Giza Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/dolcetto-navy-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-egyptian-giza-silk-touch-cotton-shirt-13237-16112-c?variant=55465056075849
+                  - img "Dolcetto Navy Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Silk Touch Egyptian Giza Cotton Shirt" [ref=e761] [cursor=pointer]
+              - generic [ref=e764]:
+                - generic [ref=e765]:
+                  - heading "Tailored Fit" [level=2] [ref=e766]
+                  - generic [ref=e767]:
+                    - img [ref=e769] [cursor=pointer]
+                    - img [ref=e773] [cursor=pointer]
+                    - img [ref=e780]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e782]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e783] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/dolcetto-navy-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-egyptian-giza-silk-touch-cotton-shirt-13237-16112-c?variant=55465056075849
+                    - text: Dolcetto Navy Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Silk Touch Egyptian Giza Cotton Shirt
+                - generic [ref=e787]:
+                  - generic [ref=e788]: Regular price
+                  - generic [ref=e789]: ₹4,950
+          - listitem "Barboni Sky Check Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e790]:
+            - generic [ref=e792]:
+              - generic [ref=e794]:
+                - link "Barboni Sky Check Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/barboni-sky-check-full-sleeve-single-cuff-tailored-fit-classic-formal-cotton-shirt-12938-14254-c?variant=55465000435785
+                  - img "Barboni Sky Check Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e796] [cursor=pointer]
+              - generic [ref=e799]:
+                - generic [ref=e800]:
+                  - heading "Tailored Fit" [level=2] [ref=e801]
+                  - generic [ref=e802]:
+                    - img [ref=e804] [cursor=pointer]
+                    - img [ref=e808] [cursor=pointer]
+                    - img [ref=e815]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e817]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e818] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/barboni-sky-check-full-sleeve-single-cuff-tailored-fit-classic-formal-cotton-shirt-12938-14254-c?variant=55465000435785
+                    - text: Barboni Sky Check Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt
+                - generic [ref=e822]:
+                  - generic [ref=e823]: Regular price
+                  - generic [ref=e824]: ₹4,529
+          - listitem "Chambray Mint Solid Half Sleeve Classic Fit Semi Formal Two Ply Mercerized Cotton Shirt" [ref=e825]:
+            - generic [ref=e827]:
+              - generic [ref=e829]:
+                - link "Chambray Mint Solid Half Sleeve Classic Fit Semi Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/chambrey-mint-solid-half-sleeve-classic-fit-classic-formal-cotton-shirt-12381-12031-c?variant=55464944664649
+                  - img "Chambray Mint Solid Half Sleeve Classic Fit Semi Formal Two Ply Mercerized Cotton Shirt" [ref=e831] [cursor=pointer]
+              - generic [ref=e834]:
+                - generic [ref=e835]:
+                  - heading "Classic Fit" [level=2] [ref=e836]
+                  - generic [ref=e837]:
+                    - img [ref=e839] [cursor=pointer]
+                    - img [ref=e843] [cursor=pointer]
+                    - img [ref=e850]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e852]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e853] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/chambrey-mint-solid-half-sleeve-classic-fit-classic-formal-cotton-shirt-12381-12031-c?variant=55464944664649
+                    - text: Chambray Mint Solid Half Sleeve Classic Fit Semi Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e857]:
+                  - generic [ref=e858]: Regular price
+                  - generic [ref=e859]: ₹3,897
+          - listitem "Cione Yellow Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e860]:
+            - generic [ref=e862]:
+              - generic [ref=e864]:
+                - link "Cione Yellow Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/cione-yellow-solid-full-sleeve-single-cuff-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13657-17790-co?variant=55465092481097
+                  - img "Cione Yellow Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e866] [cursor=pointer]
+              - generic [ref=e869]:
+                - generic [ref=e870]:
+                  - heading "Tailored Fit" [level=2] [ref=e871]
+                  - generic [ref=e872]:
+                    - img [ref=e874] [cursor=pointer]
+                    - img [ref=e878] [cursor=pointer]
+                    - img [ref=e885]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e887]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e888] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/cione-yellow-solid-full-sleeve-single-cuff-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13657-17790-co?variant=55465092481097
+                    - text: Cione Yellow Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e892]:
+                  - generic [ref=e893]: Regular price
+                  - generic [ref=e894]: ₹4,529
+          - listitem "Da Vinci White Striped Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e895]:
+            - generic [ref=e897]:
+              - generic [ref=e899]:
+                - link "Da Vinci White Striped Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/da-vinci-white-solid-full-sleeve-double-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13238-16120-c?variant=55465056108617
+                  - img "Da Vinci White Striped Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e901] [cursor=pointer]
+              - generic [ref=e904]:
+                - generic [ref=e905]:
+                  - heading "Classic Fit" [level=2] [ref=e906]
+                  - generic [ref=e907]:
+                    - img [ref=e909] [cursor=pointer]
+                    - img [ref=e913] [cursor=pointer]
+                    - img [ref=e920]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e922]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e923] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/da-vinci-white-solid-full-sleeve-double-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13238-16120-c?variant=55465056108617
+                    - text: Da Vinci White Striped Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e927]:
+                  - generic [ref=e928]: Regular price
+                  - generic [ref=e929]: ₹4,634
+          - listitem "Marchetti Light Grey Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Cotton Shirt" [ref=e930]:
+            - generic [ref=e932]:
+              - generic [ref=e934]:
+                - link "Marchetti Light Grey Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/marchetti-light-grey-striped-full-sleeve-single-cuff-tailored-fit-classic-formal-cotton-shirt-12145-11166-c?variant=55464930836553
+                  - img "Marchetti Light Grey Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Cotton Shirt" [ref=e936] [cursor=pointer]
+              - generic [ref=e939]:
+                - generic [ref=e940]:
+                  - heading "Tailored Fit" [level=2] [ref=e941]
+                  - generic [ref=e942]:
+                    - img [ref=e944] [cursor=pointer]
+                    - img [ref=e948] [cursor=pointer]
+                    - img [ref=e955]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e957]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e958] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/marchetti-light-grey-striped-full-sleeve-single-cuff-tailored-fit-classic-formal-cotton-shirt-12145-11166-c?variant=55464930836553
+                    - text: Marchetti Light Grey Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Cotton Shirt
+                - generic [ref=e962]:
+                  - generic [ref=e963]: Regular price
+                  - generic [ref=e964]: ₹4,265
+          - listitem "Barboni Sky Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e965]:
+            - generic [ref=e967]:
+              - generic [ref=e969]:
+                - link "Barboni Sky Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/barboni-tailored-fit-sky-shirt-1212-7829?variant=55464879456329
+                  - img "Barboni Sky Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e971] [cursor=pointer]
+              - generic [ref=e974]:
+                - generic [ref=e975]:
+                  - heading "Tailored Fit" [level=2] [ref=e976]
+                  - generic [ref=e977]:
+                    - img [ref=e979] [cursor=pointer]
+                    - img [ref=e983] [cursor=pointer]
+                    - img [ref=e990]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e992]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e993] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/barboni-tailored-fit-sky-shirt-1212-7829?variant=55464879456329
+                    - text: Barboni Sky Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt
+                - generic [ref=e997]:
+                  - generic [ref=e998]: Regular price
+                  - generic [ref=e999]: ₹4,529
+          - listitem "Barboni Black & White Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Without Pocket Shirt" [ref=e1000]:
+            - generic [ref=e1002]:
+              - generic [ref=e1004]:
+                - link "Barboni Black & White Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Without Pocket Shirt":
+                  - /url: https://zodiaconline.com/products/barboni-black-white-striped-full-sleeve-single-cuff-tailored-fit-classic-formal-silk-touch-egyptian-giza-cotton-without-pocket-shirt-13929-19023-co?variant=55465124593737
+                  - img "Barboni Black & White Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Without Pocket Shirt" [ref=e1006] [cursor=pointer]
+              - generic [ref=e1009]:
+                - generic [ref=e1010]:
+                  - heading "Tailored Fit" [level=2] [ref=e1011]
+                  - generic [ref=e1012]:
+                    - img [ref=e1014] [cursor=pointer]
+                    - img [ref=e1018] [cursor=pointer]
+                    - img [ref=e1025]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1027]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1028] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/barboni-black-white-striped-full-sleeve-single-cuff-tailored-fit-classic-formal-silk-touch-egyptian-giza-cotton-without-pocket-shirt-13929-19023-co?variant=55465124593737
+                    - text: Barboni Black & White Striped Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Without Pocket Shirt
+                - generic [ref=e1029]:
+                  - generic [ref=e1032]:
+                    - generic [ref=e1033]: Regular price
+                    - generic [ref=e1034]: ₹4,529
+                  - link [ref=e1036] [cursor=pointer]:
+                    - /url: /products/barboni-black-white-striped-full-sleeve-single-cuff-tailored-fit-classic-formal-silk-touch-egyptian-giza-cotton-without-pocket-shirt-13929-19023-co
+          - listitem "Matera Cream Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1037]:
+            - generic [ref=e1039]:
+              - generic [ref=e1041]:
+                - link "Matera Cream Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/matera-cream-solid-full-sleeve-single-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13815-18111-co?variant=55465104736329
+                  - img "Matera Cream Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1043] [cursor=pointer]
+              - generic [ref=e1046]:
+                - generic [ref=e1047]:
+                  - heading "Classic Fit" [level=2] [ref=e1048]
+                  - generic [ref=e1049]:
+                    - img [ref=e1051] [cursor=pointer]
+                    - img [ref=e1055] [cursor=pointer]
+                    - img [ref=e1062]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1064]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1065] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/matera-cream-solid-full-sleeve-single-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13815-18111-co?variant=55465104736329
+                    - text: Matera Cream Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e1066]:
+                  - generic [ref=e1069]:
+                    - generic [ref=e1070]: Regular price
+                    - generic [ref=e1071]: ₹4,529
+                  - link [ref=e1073] [cursor=pointer]:
+                    - /url: /products/matera-cream-solid-full-sleeve-single-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13815-18111-co
+          - listitem "Matera Cream Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1074]:
+            - generic [ref=e1076]:
+              - generic [ref=e1078]:
+                - link "Matera Cream Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/matera-cream-solid-full-sleeve-single-cuff-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13623-17579-c?variant=55465089007689
+                  - img "Matera Cream Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1080] [cursor=pointer]
+              - generic [ref=e1083]:
+                - generic [ref=e1084]:
+                  - heading "Tailored Fit" [level=2] [ref=e1085]
+                  - generic [ref=e1086]:
+                    - img [ref=e1088] [cursor=pointer]
+                    - img [ref=e1092] [cursor=pointer]
+                    - img [ref=e1099]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1101]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1102] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/matera-cream-solid-full-sleeve-single-cuff-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13623-17579-c?variant=55465089007689
+                    - text: Matera Cream Solid Full Sleeve Single Cuff Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e1103]:
+                  - generic [ref=e1106]:
+                    - generic [ref=e1107]: Regular price
+                    - generic [ref=e1108]: ₹4,529
+                  - link [ref=e1110] [cursor=pointer]:
+                    - /url: /products/matera-cream-solid-full-sleeve-single-cuff-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13623-17579-c
+          - listitem "Dolcetto Dark Grey Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Silk Touch Egyptian Giza Cotton Shirt" [ref=e1111]:
+            - generic [ref=e1113]:
+              - generic [ref=e1115]:
+                - link "Dolcetto Dark Grey Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Silk Touch Egyptian Giza Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/dolcetto-dark-grey-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-silk-touch-egyptian-giza-cotton-shirt-14023-19489-co?variant=55465132851273
+                  - img "Dolcetto Dark Grey Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Silk Touch Egyptian Giza Cotton Shirt" [ref=e1117] [cursor=pointer]
+              - generic [ref=e1120]:
+                - generic [ref=e1121]:
+                  - heading "Tailored Fit" [level=2] [ref=e1122]
+                  - generic [ref=e1123]:
+                    - img [ref=e1125] [cursor=pointer]
+                    - img [ref=e1129] [cursor=pointer]
+                    - img [ref=e1136]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1138]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1139] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/dolcetto-dark-grey-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-silk-touch-egyptian-giza-cotton-shirt-14023-19489-co?variant=55465132851273
+                    - text: Dolcetto Dark Grey Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Silk Touch Egyptian Giza Cotton Shirt
+                - generic [ref=e1140]:
+                  - generic [ref=e1143]:
+                    - generic [ref=e1144]: Regular price
+                    - generic [ref=e1145]: ₹4,950
+                  - generic [ref=e1146]:
+                    - link [ref=e1147] [cursor=pointer]:
+                      - /url: /products/dolcetto-dark-grey-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-silk-touch-egyptian-giza-cotton-shirt-14023-19489-co
+                    - link [ref=e1148] [cursor=pointer]:
+                      - /url: /products/dolcetto-navy-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-egyptian-giza-silk-touch-cotton-shirt-13237-16112-c
+                    - link [ref=e1149] [cursor=pointer]:
+                      - /url: /products/dolcetto-purple-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-silk-touch-egyptian-giza-cotton-shirt-14021-19473-co
+          - listitem "Praiano Sand Solid Half Sleeve Classic Fit Semi Formal European Flax Linen Shirt" [ref=e1150]:
+            - generic [ref=e1152]:
+              - generic [ref=e1153]:
+                - generic [ref=e1155]: best seller
+                - generic [ref=e1156]:
+                  - link "Praiano Sand Solid Half Sleeve Classic Fit Semi Formal European Flax Linen Shirt":
+                    - /url: https://zodiaconline.com/products/praiano-sand-solid-half-sleeve-classic-fit-semi-formal-european-flax-linen-shirt-14142-19898-co?variant=55484632432713
+                    - img "Praiano Sand Solid Half Sleeve Classic Fit Semi Formal European Flax Linen Shirt" [ref=e1158] [cursor=pointer]
+              - generic [ref=e1161]:
+                - generic [ref=e1162]:
+                  - heading "Classic Fit" [level=2] [ref=e1163]
+                  - generic [ref=e1164]:
+                    - img [ref=e1166] [cursor=pointer]
+                    - img [ref=e1170] [cursor=pointer]
+                    - img [ref=e1177]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1179]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1180] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/praiano-sand-solid-half-sleeve-classic-fit-semi-formal-european-flax-linen-shirt-14142-19898-co?variant=55484632432713
+                    - text: Praiano Sand Solid Half Sleeve Classic Fit Semi Formal European Flax Linen Shirt
+                - generic [ref=e1184]:
+                  - generic [ref=e1185]: Regular price
+                  - generic [ref=e1186]: ₹5,299
+          - listitem "Marzeno Ochre Solid Full Sleeve Single Cuff Classic Fit Semi Formal Dark Two Ply Mercerized Cotton Shirt" [ref=e1187]:
+            - generic [ref=e1189]:
+              - generic [ref=e1191]:
+                - link "Marzeno Ochre Solid Full Sleeve Single Cuff Classic Fit Semi Formal Dark Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/marzeno-ochre-solid-full-sleeve-single-cuff-classic-fit-semi-formal-dark-two-ply-mercerized-cotton-shirt-13624-17587-c?variant=55465089302601
+                  - img "Marzeno Ochre Solid Full Sleeve Single Cuff Classic Fit Semi Formal Dark Two Ply Mercerized Cotton Shirt" [ref=e1193] [cursor=pointer]
+              - generic [ref=e1196]:
+                - generic [ref=e1197]:
+                  - heading "Classic Fit" [level=2] [ref=e1198]
+                  - generic [ref=e1199]:
+                    - img [ref=e1201] [cursor=pointer]
+                    - img [ref=e1205] [cursor=pointer]
+                    - img [ref=e1212]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1214]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1215] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/marzeno-ochre-solid-full-sleeve-single-cuff-classic-fit-semi-formal-dark-two-ply-mercerized-cotton-shirt-13624-17587-c?variant=55465089302601
+                    - text: Marzeno Ochre Solid Full Sleeve Single Cuff Classic Fit Semi Formal Dark Two Ply Mercerized Cotton Shirt
+                - generic [ref=e1216]:
+                  - generic [ref=e1219]:
+                    - generic [ref=e1220]: Regular price
+                    - generic [ref=e1221]: ₹4,213
+                  - link [ref=e1223] [cursor=pointer]:
+                    - /url: /products/marzeno-ochre-solid-full-sleeve-single-cuff-classic-fit-semi-formal-dark-two-ply-mercerized-cotton-shirt-13624-17587-c
+          - listitem "Fine Twill Blue Solid Full Sleeve Single Cuff Classic Fit Semi Formal Super Fine Cotton Shirt" [ref=e1224]:
+            - generic [ref=e1226]:
+              - generic [ref=e1228]:
+                - link "Fine Twill Blue Solid Full Sleeve Single Cuff Classic Fit Semi Formal Super Fine Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/fine-twill-blue-solid-full-sleeve-single-cuff-classic-fit-semi-formal-super-fine-cotton-shirt-13812-18387-co?variant=55465104801865
+                  - img "Fine Twill Blue Solid Full Sleeve Single Cuff Classic Fit Semi Formal Super Fine Cotton Shirt" [ref=e1230] [cursor=pointer]
+              - generic [ref=e1233]:
+                - generic [ref=e1234]:
+                  - heading "Classic Fit" [level=2] [ref=e1235]
+                  - generic [ref=e1236]:
+                    - img [ref=e1238] [cursor=pointer]
+                    - img [ref=e1242] [cursor=pointer]
+                    - img [ref=e1249]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1251]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1252] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/fine-twill-blue-solid-full-sleeve-single-cuff-classic-fit-semi-formal-super-fine-cotton-shirt-13812-18387-co?variant=55465104801865
+                    - text: Fine Twill Blue Solid Full Sleeve Single Cuff Classic Fit Semi Formal Super Fine Cotton Shirt
+                - generic [ref=e1253]:
+                  - generic [ref=e1256]:
+                    - generic [ref=e1257]: Regular price
+                    - generic [ref=e1258]: ₹4,529
+                  - link [ref=e1260] [cursor=pointer]:
+                    - /url: /products/fine-twill-blue-solid-full-sleeve-single-cuff-classic-fit-semi-formal-super-fine-cotton-shirt-13812-18387-co
+          - listitem "Cione Cream Solid Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1261]:
+            - generic [ref=e1263]:
+              - generic [ref=e1265]:
+                - link "Cione Cream Solid Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/cione-cream-solid-full-sleeve-double-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13619-17547-c?variant=55465088155721
+                  - img "Cione Cream Solid Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1267] [cursor=pointer]
+              - generic [ref=e1270]:
+                - generic [ref=e1271]:
+                  - heading "Classic Fit" [level=2] [ref=e1272]
+                  - generic [ref=e1273]:
+                    - img [ref=e1275] [cursor=pointer]
+                    - img [ref=e1279] [cursor=pointer]
+                    - img [ref=e1286]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1288]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1289] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/cione-cream-solid-full-sleeve-double-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13619-17547-c?variant=55465088155721
+                    - text: Cione Cream Solid Full Sleeve Double Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e1290]:
+                  - generic [ref=e1293]:
+                    - generic [ref=e1294]: Regular price
+                    - generic [ref=e1295]: ₹4,845
+                  - link [ref=e1297] [cursor=pointer]:
+                    - /url: /products/cione-cream-solid-full-sleeve-double-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13619-17547-c
+          - listitem "Cascia Sky Solid Half Sleeve Classic Fit Classic Formal Cotton Shirt" [ref=e1298]:
+            - generic [ref=e1300]:
+              - generic [ref=e1302]:
+                - link "Cascia Sky Solid Half Sleeve Classic Fit Classic Formal Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/cascia-sky-solid-half-sleeve-classic-fit-classic-formal-cotton-shirt-13613-17499-c?variant=55465086353481
+                  - img "Cascia Sky Solid Half Sleeve Classic Fit Classic Formal Cotton Shirt" [ref=e1304] [cursor=pointer]
+              - generic [ref=e1307]:
+                - generic [ref=e1308]:
+                  - heading "Classic Fit" [level=2] [ref=e1309]
+                  - generic [ref=e1310]:
+                    - img [ref=e1312] [cursor=pointer]
+                    - img [ref=e1316] [cursor=pointer]
+                    - img [ref=e1323]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1325]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1326] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/cascia-sky-solid-half-sleeve-classic-fit-classic-formal-cotton-shirt-13613-17499-c?variant=55465086353481
+                    - text: Cascia Sky Solid Half Sleeve Classic Fit Classic Formal Cotton Shirt
+                - generic [ref=e1327]:
+                  - generic [ref=e1330]:
+                    - generic [ref=e1331]: Regular price
+                    - generic [ref=e1332]: ₹3,897
+                  - link [ref=e1334] [cursor=pointer]:
+                    - /url: /products/cascia-sky-solid-half-sleeve-classic-fit-classic-formal-cotton-shirt-13613-17499-c
+          - listitem "Praiano Royal Solid Half Sleeve Classic Fit Semi Formal European Flax Linen Shirt" [ref=e1335]:
+            - generic [ref=e1337]:
+              - generic [ref=e1338]:
+                - generic [ref=e1340]: best seller
+                - generic [ref=e1341]:
+                  - link "Praiano Royal Solid Half Sleeve Classic Fit Semi Formal European Flax Linen Shirt":
+                    - /url: https://zodiaconline.com/products/praiano-royal-solid-half-sleeve-classic-fit-semi-formal-european-flax-linen-shirt-14012-19401-co?variant=55465130000457
+                    - img "Praiano Royal Solid Half Sleeve Classic Fit Semi Formal European Flax Linen Shirt" [ref=e1343] [cursor=pointer]
+              - generic [ref=e1346]:
+                - generic [ref=e1347]:
+                  - heading "Classic Fit" [level=2] [ref=e1348]
+                  - generic [ref=e1349]:
+                    - img [ref=e1351] [cursor=pointer]
+                    - img [ref=e1355] [cursor=pointer]
+                    - img [ref=e1362]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1364]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1365] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/praiano-royal-solid-half-sleeve-classic-fit-semi-formal-european-flax-linen-shirt-14012-19401-co?variant=55465130000457
+                    - text: Praiano Royal Solid Half Sleeve Classic Fit Semi Formal European Flax Linen Shirt
+                - generic [ref=e1366]:
+                  - generic [ref=e1369]:
+                    - generic [ref=e1370]: Regular price
+                    - generic [ref=e1371]: ₹5,266
+                  - link [ref=e1373] [cursor=pointer]:
+                    - /url: /products/praiano-royal-solid-half-sleeve-classic-fit-semi-formal-european-flax-linen-shirt-14012-19401-co
+          - listitem "Barboni Black & White Check Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Without Pocket Shirt" [ref=e1374]:
+            - generic [ref=e1376]:
+              - generic [ref=e1378]:
+                - link "Barboni Black & White Check Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Without Pocket Shirt":
+                  - /url: https://zodiaconline.com/products/barboni-black-white-check-full-sleeve-single-cuff-tailored-fit-classic-formal-silk-touch-egyptian-giza-cotton-without-pocket-shirt-13923-18969-co?variant=55465123217481
+                  - img "Barboni Black & White Check Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Without Pocket Shirt" [ref=e1380] [cursor=pointer]
+              - generic [ref=e1383]:
+                - generic [ref=e1384]:
+                  - heading "Tailored Fit" [level=2] [ref=e1385]
+                  - generic [ref=e1386]:
+                    - img [ref=e1388] [cursor=pointer]
+                    - img [ref=e1392] [cursor=pointer]
+                    - img [ref=e1399]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1401]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1402] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/barboni-black-white-check-full-sleeve-single-cuff-tailored-fit-classic-formal-silk-touch-egyptian-giza-cotton-without-pocket-shirt-13923-18969-co?variant=55465123217481
+                    - text: Barboni Black & White Check Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Without Pocket Shirt
+                - generic [ref=e1403]:
+                  - generic [ref=e1406]:
+                    - generic [ref=e1407]: Regular price
+                    - generic [ref=e1408]: ₹4,529
+                  - generic [ref=e1409]:
+                    - link [ref=e1410] [cursor=pointer]:
+                      - /url: /products/barboni-black-white-check-full-sleeve-single-cuff-tailored-fit-classic-formal-silk-touch-egyptian-giza-cotton-without-pocket-shirt-13923-18969-co
+                    - link [ref=e1411] [cursor=pointer]:
+                      - /url: /products/barboni-blue-check-full-sleeve-single-cuff-tailored-fit-classic-formal-silk-touch-egyptian-giza-cotton-without-pocket-shirt-13924-18978-co
+          - listitem "Cione Pink Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1412]:
+            - generic [ref=e1414]:
+              - generic [ref=e1416]:
+                - link "Cione Pink Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/cione-pink-solid-full-sleeve-single-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13604-17427-c?variant=55465083666505
+                  - img "Cione Pink Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1418] [cursor=pointer]
+              - generic [ref=e1421]:
+                - generic [ref=e1422]:
+                  - heading "Classic Fit" [level=2] [ref=e1423]
+                  - generic [ref=e1424]:
+                    - img [ref=e1426] [cursor=pointer]
+                    - img [ref=e1430] [cursor=pointer]
+                    - img [ref=e1437]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1439]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1440] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/cione-pink-solid-full-sleeve-single-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13604-17427-c?variant=55465083666505
+                    - text: Cione Pink Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e1441]:
+                  - generic [ref=e1444]:
+                    - generic [ref=e1445]: Regular price
+                    - generic [ref=e1446]: ₹4,740
+                  - link [ref=e1448] [cursor=pointer]:
+                    - /url: /products/cione-pink-solid-full-sleeve-single-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13604-17427-c
+          - listitem "Positano White Solid Half Sleeve Classic Fit Semi Formal European Flax Linen Shirt" [ref=e1449]:
+            - generic [ref=e1451]:
+              - generic [ref=e1453]:
+                - link "Positano White Solid Half Sleeve Classic Fit Semi Formal European Flax Linen Shirt":
+                  - /url: https://zodiaconline.com/products/positano-white-solid-half-sleeve-classic-fit-semi-formal-european-flax-linen-shirt-13811-18379-co?variant=55465106800713
+                  - img "Positano White Solid Half Sleeve Classic Fit Semi Formal European Flax Linen Shirt" [ref=e1455] [cursor=pointer]
+              - generic [ref=e1458]:
+                - generic [ref=e1459]:
+                  - heading "Classic Fit" [level=2] [ref=e1460]
+                  - generic [ref=e1461]:
+                    - img [ref=e1463] [cursor=pointer]
+                    - img [ref=e1467] [cursor=pointer]
+                    - img [ref=e1474]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1476]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1477] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/positano-white-solid-half-sleeve-classic-fit-semi-formal-european-flax-linen-shirt-13811-18379-co?variant=55465106800713
+                    - text: Positano White Solid Half Sleeve Classic Fit Semi Formal European Flax Linen Shirt
+                - generic [ref=e1478]:
+                  - generic [ref=e1481]:
+                    - generic [ref=e1482]: Regular price
+                    - generic [ref=e1483]: ₹5,056
+                  - link [ref=e1485] [cursor=pointer]:
+                    - /url: /products/positano-white-solid-half-sleeve-classic-fit-semi-formal-european-flax-linen-shirt-13811-18379-co
+          - listitem "Positano White Solid Full Sleeve Single Cuff Classic Fit Semi Formal European Flax Linen Shirt" [ref=e1486]:
+            - generic [ref=e1488]:
+              - generic [ref=e1490]:
+                - link "Positano White Solid Full Sleeve Single Cuff Classic Fit Semi Formal European Flax Linen Shirt":
+                  - /url: https://zodiaconline.com/products/positano-white-solid-full-sleeve-single-cuff-classic-fit-semi-formal-european-flax-linen-shirt-13562-17203-co?variant=55465077866569
+                  - img "Positano White Solid Full Sleeve Single Cuff Classic Fit Semi Formal European Flax Linen Shirt" [ref=e1492] [cursor=pointer]
+              - generic [ref=e1495]:
+                - generic [ref=e1496]:
+                  - heading "Classic Fit" [level=2] [ref=e1497]
+                  - generic [ref=e1498]:
+                    - img [ref=e1500] [cursor=pointer]
+                    - img [ref=e1504] [cursor=pointer]
+                    - img [ref=e1511]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1513]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1514] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/positano-white-solid-full-sleeve-single-cuff-classic-fit-semi-formal-european-flax-linen-shirt-13562-17203-co?variant=55465077866569
+                    - text: Positano White Solid Full Sleeve Single Cuff Classic Fit Semi Formal European Flax Linen Shirt
+                - generic [ref=e1515]:
+                  - generic [ref=e1518]:
+                    - generic [ref=e1519]: Regular price
+                    - generic [ref=e1520]: ₹5,056
+                  - link [ref=e1522] [cursor=pointer]:
+                    - /url: /products/positano-white-solid-full-sleeve-single-cuff-classic-fit-semi-formal-european-flax-linen-shirt-13562-17203-co
+          - listitem "Dolcetto Dark Grey Solid Full Sleeve Single Cuff Classic Fit Semi Formal Dark Silk Touch Egyptian Giza Cotton Shirt" [ref=e1523]:
+            - generic [ref=e1525]:
+              - generic [ref=e1526]:
+                - generic [ref=e1528]: best seller
+                - generic [ref=e1529]:
+                  - link "Dolcetto Dark Grey Solid Full Sleeve Single Cuff Classic Fit Semi Formal Dark Silk Touch Egyptian Giza Cotton Shirt":
+                    - /url: https://zodiaconline.com/products/dolcetto-dark-grey-solid-full-sleeve-single-cuff-classic-fit-semi-formal-dark-silk-touch-egyptian-giza-cotton-shirt-14027-19521-co?variant=55465133932617
+                    - img "Dolcetto Dark Grey Solid Full Sleeve Single Cuff Classic Fit Semi Formal Dark Silk Touch Egyptian Giza Cotton Shirt" [ref=e1531] [cursor=pointer]
+              - generic [ref=e1534]:
+                - generic [ref=e1535]:
+                  - heading "Classic Fit" [level=2] [ref=e1536]
+                  - generic [ref=e1537]:
+                    - img [ref=e1539] [cursor=pointer]
+                    - img [ref=e1543] [cursor=pointer]
+                    - img [ref=e1550]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1552]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1553] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/dolcetto-dark-grey-solid-full-sleeve-single-cuff-classic-fit-semi-formal-dark-silk-touch-egyptian-giza-cotton-shirt-14027-19521-co?variant=55465133932617
+                    - text: Dolcetto Dark Grey Solid Full Sleeve Single Cuff Classic Fit Semi Formal Dark Silk Touch Egyptian Giza Cotton Shirt
+                - generic [ref=e1554]:
+                  - generic [ref=e1557]:
+                    - generic [ref=e1558]: Regular price
+                    - generic [ref=e1559]: ₹4,999
+                  - generic [ref=e1560]:
+                    - link [ref=e1561] [cursor=pointer]:
+                      - /url: /products/dolcetto-dark-grey-solid-full-sleeve-single-cuff-classic-fit-semi-formal-dark-silk-touch-egyptian-giza-cotton-shirt-14027-19521-co
+                    - link [ref=e1562] [cursor=pointer]:
+                      - /url: /products/dolcetto-purple-solid-full-sleeve-single-cuff-classic-fit-semi-formal-dark-cotton-shirt-13028-14765-c
+                    - link [ref=e1563] [cursor=pointer]:
+                      - /url: /products/dolcetto-maroon-solid-full-sleeve-single-cuff-classic-fit-semi-formal-dark-egyptian-giza-silk-touch-cotton-shirt-13229-16074-c
+                    - link [ref=e1564] [cursor=pointer]:
+                      - /url: /products/dolcetto-navy-solid-full-sleeve-single-cuff-classic-fit-semi-formal-dark-silk-touch-egyptian-giza-cotton-shirt-14013-19409-co
+                    - link "+5" [ref=e1565] [cursor=pointer]:
+                      - /url: https://zodiaconline.com/products/dolcetto-dark-grey-solid-full-sleeve-single-cuff-classic-fit-semi-formal-dark-silk-touch-egyptian-giza-cotton-shirt-14027-19521-co?variant=55465133932617
+          - listitem "Marzeno Brown Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Two Ply Mercerized Cotton Shirt" [ref=e1566]:
+            - generic [ref=e1568]:
+              - generic [ref=e1570]:
+                - link "Marzeno Brown Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/marzeno-brown-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-two-ply-mercerized-cotton-shirt-14015-19425-co?variant=55465130852425
+                  - img "Marzeno Brown Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Two Ply Mercerized Cotton Shirt" [ref=e1572] [cursor=pointer]
+              - generic [ref=e1575]:
+                - generic [ref=e1576]:
+                  - heading "Tailored Fit" [level=2] [ref=e1577]
+                  - generic [ref=e1578]:
+                    - img [ref=e1580] [cursor=pointer]
+                    - img [ref=e1584] [cursor=pointer]
+                    - img [ref=e1591]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1593]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1594] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/marzeno-brown-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-two-ply-mercerized-cotton-shirt-14015-19425-co?variant=55465130852425
+                    - text: Marzeno Brown Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Two Ply Mercerized Cotton Shirt
+                - generic [ref=e1595]:
+                  - generic [ref=e1598]:
+                    - generic [ref=e1599]: Regular price
+                    - generic [ref=e1600]: ₹4,213
+                  - link [ref=e1602] [cursor=pointer]:
+                    - /url: /products/marzeno-brown-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-two-ply-mercerized-cotton-shirt-14015-19425-co
+          - listitem "Fine Twill Maroon Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Super Fine Cotton Shirt" [ref=e1603]:
+            - generic [ref=e1605]:
+              - generic [ref=e1607]:
+                - link "Fine Twill Maroon Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Super Fine Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/fine-twill-maroon-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-super-fine-cotton-shirt-13799-18283-c?variant=55465101393993
+                  - img "Fine Twill Maroon Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Super Fine Cotton Shirt" [ref=e1609] [cursor=pointer]
+              - generic [ref=e1612]:
+                - generic [ref=e1613]:
+                  - heading "Tailored Fit" [level=2] [ref=e1614]
+                  - generic [ref=e1615]:
+                    - img [ref=e1617] [cursor=pointer]
+                    - img [ref=e1621] [cursor=pointer]
+                    - img [ref=e1628]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1630]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1631] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/fine-twill-maroon-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-super-fine-cotton-shirt-13799-18283-c?variant=55465101393993
+                    - text: Fine Twill Maroon Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Super Fine Cotton Shirt
+                - generic [ref=e1632]:
+                  - generic [ref=e1635]:
+                    - generic [ref=e1636]: Regular price
+                    - generic [ref=e1637]: ₹4,529
+                  - generic [ref=e1638]:
+                    - link [ref=e1639] [cursor=pointer]:
+                      - /url: /products/fine-twill-maroon-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-super-fine-cotton-shirt-13799-18283-c
+                    - link [ref=e1640] [cursor=pointer]:
+                      - /url: /products/fine-twill-brown-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-super-fine-cotton-shirt-13798-18275-c
+          - listitem "Marzeno Ochre Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Two Ply Mercerized Cotton Without Pocket Shirt" [ref=e1641]:
+            - generic [ref=e1643]:
+              - generic [ref=e1645]:
+                - link "Marzeno Ochre Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Two Ply Mercerized Cotton Without Pocket Shirt":
+                  - /url: https://zodiaconline.com/products/marzeno-ochre-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-two-ply-mercerized-cotton-without-pocket-shirt-13892-18690-co?variant=55465114501193
+                  - img "Marzeno Ochre Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Two Ply Mercerized Cotton Without Pocket Shirt" [ref=e1647] [cursor=pointer]
+              - generic [ref=e1650]:
+                - generic [ref=e1651]:
+                  - heading "Tailored Fit" [level=2] [ref=e1652]
+                  - generic [ref=e1653]:
+                    - img [ref=e1655] [cursor=pointer]
+                    - img [ref=e1659] [cursor=pointer]
+                    - img [ref=e1666]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1668]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1669] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/marzeno-ochre-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-two-ply-mercerized-cotton-without-pocket-shirt-13892-18690-co?variant=55465114501193
+                    - text: Marzeno Ochre Solid Full Sleeve Single Cuff Tailored Fit Semi Formal Dark Two Ply Mercerized Cotton Without Pocket Shirt
+                - generic [ref=e1670]:
+                  - generic [ref=e1673]:
+                    - generic [ref=e1674]: Regular price
+                    - generic [ref=e1675]: ₹4,213
+                  - link [ref=e1677] [cursor=pointer]:
+                    - /url: /products/marzeno-ochre-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-dark-two-ply-mercerized-cotton-without-pocket-shirt-13892-18690-co
+          - listitem "Structure White Solid Half Sleeve Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1678]:
+            - generic [ref=e1680]:
+              - generic [ref=e1682]:
+                - link "Structure White Solid Half Sleeve Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/structure-white-solid-half-sleeve-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13621-17563-c?variant=55465088483401
+                  - img "Structure White Solid Half Sleeve Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1684] [cursor=pointer]
+              - generic [ref=e1687]:
+                - generic [ref=e1688]:
+                  - heading "Tailored Fit" [level=2] [ref=e1689]
+                  - generic [ref=e1690]:
+                    - img [ref=e1692] [cursor=pointer]
+                    - img [ref=e1696] [cursor=pointer]
+                    - img [ref=e1703]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1705]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1706] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/structure-white-solid-half-sleeve-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13621-17563-c?variant=55465088483401
+                    - text: Structure White Solid Half Sleeve Tailored Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e1707]:
+                  - generic [ref=e1710]:
+                    - generic [ref=e1711]: Regular price
+                    - generic [ref=e1712]: ₹4,213
+                  - link [ref=e1714] [cursor=pointer]:
+                    - /url: /products/structure-white-solid-half-sleeve-tailored-fit-classic-formal-two-ply-mercerized-cotton-shirt-13621-17563-c
+          - listitem "Positano White Solid Full Sleeve Single Cuff Tailored Fit Semi Formal European Flax Linen Without Pocket Shirt" [ref=e1715]:
+            - generic [ref=e1717]:
+              - generic [ref=e1719]:
+                - link "Positano White Solid Full Sleeve Single Cuff Tailored Fit Semi Formal European Flax Linen Without Pocket Shirt":
+                  - /url: https://zodiaconline.com/products/positano-white-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-european-flax-linen-without-pocket-shirt-13897-18735-co?variant=55465115910217
+                  - img "Positano White Solid Full Sleeve Single Cuff Tailored Fit Semi Formal European Flax Linen Without Pocket Shirt" [ref=e1721] [cursor=pointer]
+              - generic [ref=e1724]:
+                - generic [ref=e1725]:
+                  - heading "Tailored Fit" [level=2] [ref=e1726]
+                  - generic [ref=e1727]:
+                    - img [ref=e1729] [cursor=pointer]
+                    - img [ref=e1733] [cursor=pointer]
+                    - img [ref=e1740]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1742]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1743] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/positano-white-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-european-flax-linen-without-pocket-shirt-13897-18735-co?variant=55465115910217
+                    - text: Positano White Solid Full Sleeve Single Cuff Tailored Fit Semi Formal European Flax Linen Without Pocket Shirt
+                - generic [ref=e1744]:
+                  - generic [ref=e1747]:
+                    - generic [ref=e1748]: Regular price
+                    - generic [ref=e1749]: ₹5,056
+                  - link [ref=e1751] [cursor=pointer]:
+                    - /url: /products/positano-white-solid-full-sleeve-single-cuff-tailored-fit-semi-formal-european-flax-linen-without-pocket-shirt-13897-18735-co
+          - listitem "Structure Sky Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1752]:
+            - generic [ref=e1754]:
+              - generic [ref=e1756]:
+                - link "Structure Sky Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/structure-sky-solid-full-sleeve-single-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13594-17347-c?variant=55465081110601
+                  - img "Structure Sky Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1758] [cursor=pointer]
+              - generic [ref=e1761]:
+                - generic [ref=e1762]:
+                  - heading "Classic Fit" [level=2] [ref=e1763]
+                  - generic [ref=e1764]:
+                    - img [ref=e1766] [cursor=pointer]
+                    - img [ref=e1770] [cursor=pointer]
+                    - img [ref=e1777]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1779]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1780] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/structure-sky-solid-full-sleeve-single-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13594-17347-c?variant=55465081110601
+                    - text: Structure Sky Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e1781]:
+                  - generic [ref=e1784]:
+                    - generic [ref=e1785]: Regular price
+                    - generic [ref=e1786]: ₹4,213
+                  - link [ref=e1788] [cursor=pointer]:
+                    - /url: /products/structure-sky-solid-full-sleeve-single-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13594-17347-c
+          - listitem "Barboni Black & White Check Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Without Pocket Shirt" [ref=e1789]:
+            - generic [ref=e1791]:
+              - generic [ref=e1793]:
+                - link "Barboni Black & White Check Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Without Pocket Shirt":
+                  - /url: https://zodiaconline.com/products/barboni-black-white-check-full-sleeve-single-cuff-tailored-fit-classic-formal-silk-touch-egyptian-giza-cotton-without-pocket-shirt-13925-18987-co?variant=55465123512393
+                  - img "Barboni Black & White Check Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Without Pocket Shirt" [ref=e1795] [cursor=pointer]
+              - generic [ref=e1798]:
+                - generic [ref=e1799]:
+                  - heading "Tailored Fit" [level=2] [ref=e1800]
+                  - generic [ref=e1801]:
+                    - img [ref=e1803] [cursor=pointer]
+                    - img [ref=e1807] [cursor=pointer]
+                    - img [ref=e1814]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1816]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1817] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/barboni-black-white-check-full-sleeve-single-cuff-tailored-fit-classic-formal-silk-touch-egyptian-giza-cotton-without-pocket-shirt-13925-18987-co?variant=55465123512393
+                    - text: Barboni Black & White Check Full Sleeve Single Cuff Tailored Fit Classic Formal Silk Touch Egyptian Giza Cotton Without Pocket Shirt
+                - generic [ref=e1818]:
+                  - generic [ref=e1821]:
+                    - generic [ref=e1822]: Regular price
+                    - generic [ref=e1823]: ₹4,529
+                  - generic [ref=e1824]:
+                    - link [ref=e1825] [cursor=pointer]:
+                      - /url: /products/barboni-black-white-check-full-sleeve-single-cuff-tailored-fit-classic-formal-silk-touch-egyptian-giza-cotton-without-pocket-shirt-13925-18987-co
+                    - link [ref=e1826] [cursor=pointer]:
+                      - /url: /products/barboni-blue-check-full-sleeve-single-cuff-tailored-fit-classic-formal-silk-touch-egyptian-giza-cotton-without-pocket-shirt-13926-18996-co
+          - listitem "Cione Sky Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1827]:
+            - generic [ref=e1829]:
+              - generic [ref=e1831]:
+                - link "Cione Sky Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/cione-sky-solid-full-sleeve-single-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13615-17515-c?variant=55465086648393
+                  - img "Cione Sky Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1833] [cursor=pointer]
+              - generic [ref=e1836]:
+                - generic [ref=e1837]:
+                  - heading "Classic Fit" [level=2] [ref=e1838]
+                  - generic [ref=e1839]:
+                    - img [ref=e1841] [cursor=pointer]
+                    - img [ref=e1845] [cursor=pointer]
+                    - img [ref=e1852]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1854]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1855] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/cione-sky-solid-full-sleeve-single-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13615-17515-c?variant=55465086648393
+                    - text: Cione Sky Solid Full Sleeve Single Cuff Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e1856]:
+                  - generic [ref=e1859]:
+                    - generic [ref=e1860]: Regular price
+                    - generic [ref=e1861]: ₹4,529
+                  - link [ref=e1863] [cursor=pointer]:
+                    - /url: /products/cione-sky-solid-full-sleeve-single-cuff-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13615-17515-c
+          - listitem "Structure White Solid Half Sleeve Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1864]:
+            - generic [ref=e1866]:
+              - generic [ref=e1868]:
+                - link "Structure White Solid Half Sleeve Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt":
+                  - /url: https://zodiaconline.com/products/structure-white-solid-half-sleeve-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13627-17611-c?variant=55465090547785
+                  - img "Structure White Solid Half Sleeve Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt" [ref=e1870] [cursor=pointer]
+              - generic [ref=e1873]:
+                - generic [ref=e1874]:
+                  - heading "Classic Fit" [level=2] [ref=e1875]
+                  - generic [ref=e1876]:
+                    - img [ref=e1878] [cursor=pointer]
+                    - img [ref=e1882] [cursor=pointer]
+                    - img [ref=e1889]
+                - heading "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [level=3] [ref=e1891]:
+                  - link "Barboni White Solid Full Sleeve Single Cuff Classic Fit Classic Formal Silk Touch Egyptian Giza Cotton Shirt" [ref=e1892] [cursor=pointer]:
+                    - /url: https://zodiaconline.com/products/structure-white-solid-half-sleeve-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13627-17611-c?variant=55465090547785
+                    - text: Structure White Solid Half Sleeve Classic Fit Classic Formal Two Ply Mercerized Cotton Shirt
+                - generic [ref=e1893]:
+                  - generic [ref=e1896]:
+                    - generic [ref=e1897]: Regular price
+                    - generic [ref=e1898]: ₹4,213
+                  - link [ref=e1900] [cursor=pointer]:
+                    - /url: /products/structure-white-solid-half-sleeve-classic-fit-classic-formal-two-ply-mercerized-cotton-shirt-13627-17611-c
+  - generic [ref=e1904]:
+    - heading "For updates on our new collections please opt in" [level=2] [ref=e1905]
+    - generic [ref=e1909]:
+      - textbox "Email" [ref=e1910]
+      - button "Subscribe" [ref=e1911] [cursor=pointer]:
+        - img [ref=e1913]
+  - contentinfo [ref=e1916]:
+    - generic [ref=e1918]:
+      - generic [ref=e1920]:
+        - paragraph [ref=e1921]:
+          - text: Established up in the late 50's, Zodiac has evolved into a leader in men's fine clothing and accessories.
+          - text: 7 decades on, the passion has not ebbed. Indeed, while most know it to be a large professionally run company, the team at Zodiac believes it is more a passion-driven company. Passion for clothing, design, and perfectionism. They believe success just follows
+        - link "Read more about Zodiac" [ref=e1922] [cursor=pointer]:
+          - /url: /pages/about-us
+          - text: Read more
+          - generic [ref=e1923]: about Zodiac
+          - img [ref=e1924]
+      - generic [ref=e1927]:
+        - generic [ref=e1928]:
+          - generic [ref=e1929]:
+            - heading "My Account" [level=2] [ref=e1930]
+            - list [ref=e1931]:
+              - listitem [ref=e1932]:
+                - link "My Orders" [ref=e1933] [cursor=pointer]:
+                  - /url: https://zodiac-zod.myshopify.com/account/login
+              - listitem [ref=e1934]:
+                - link "Track Orders" [ref=e1935] [cursor=pointer]:
+                  - /url: https://zodiac-zod.myshopify.com/account/login
+              - listitem [ref=e1936]:
+                - link "My Addresses" [ref=e1937] [cursor=pointer]:
+                  - /url: https://zodiac-zod.myshopify.com/account/login
+          - generic [ref=e1938]:
+            - heading "About Us" [level=2] [ref=e1939]
+            - list [ref=e1940]:
+              - listitem [ref=e1941]:
+                - link "Our Story" [ref=e1942] [cursor=pointer]:
+                  - /url: /pages/about-us
+              - listitem [ref=e1943]:
+                - link "Sustainability" [ref=e1944] [cursor=pointer]:
+                  - /url: /pages/sustainability-1
+              - listitem [ref=e1945]:
+                - link "Newsroom" [ref=e1946] [cursor=pointer]:
+                  - /url: /pages/newsroom
+        - generic [ref=e1947]:
+          - generic [ref=e1948]:
+            - heading "Policies" [level=2] [ref=e1949]
+            - list [ref=e1950]:
+              - listitem [ref=e1951]:
+                - link "Terms & Conditions" [ref=e1952] [cursor=pointer]:
+                  - /url: /pages/terms-and-conditions
+              - listitem [ref=e1953]:
+                - link "Return Policy" [ref=e1954] [cursor=pointer]:
+                  - /url: /pages/return-policy
+              - listitem [ref=e1955]:
+                - link "E-commerce Policy" [ref=e1956] [cursor=pointer]:
+                  - /url: /pages/e-commerce-policy
+          - list [ref=e1958]:
+            - listitem [ref=e1959]:
+              - link "Find A Store" [ref=e1960] [cursor=pointer]:
+                - /url: /a/storelocator
+            - listitem [ref=e1961]:
+              - link "Careers" [ref=e1962] [cursor=pointer]:
+                - /url: /pages/career-opportunities
+            - listitem [ref=e1963]:
+              - link "Investor Relations" [ref=e1964] [cursor=pointer]:
+                - /url: /pages/investorrelations
+            - listitem [ref=e1965]:
+              - link "Advertising Archives" [ref=e1966] [cursor=pointer]:
+                - /url: /pages/advertising-archives
+        - generic [ref=e1968]:
+          - heading "Contact Us" [level=2] [ref=e1969]
+          - list [ref=e1970]:
+            - listitem [ref=e1971]:
+              - link "Store Locator" [ref=e1972] [cursor=pointer]:
+                - /url: /a/storelocator
+            - listitem [ref=e1973]:
+              - link "Customer Support" [ref=e1974] [cursor=pointer]:
+                - /url: /pages/contact
+        - generic [ref=e1976]:
+          - heading "Top Categories" [level=2] [ref=e1977]
+          - list [ref=e1978]:
+            - listitem [ref=e1979]:
+              - link "Shirts" [ref=e1980] [cursor=pointer]:
+                - /url: /collections/shirts
+            - listitem [ref=e1981]:
+              - link "Polos" [ref=e1982] [cursor=pointer]:
+                - /url: /collections/super-soft-garment-dyed-polos
+            - listitem [ref=e1983]:
+              - link "Ties" [ref=e1984] [cursor=pointer]:
+                - /url: /collections/ties
+            - listitem [ref=e1985]:
+              - link "Accessories" [ref=e1986] [cursor=pointer]:
+                - /url: /collections/accessories
+            - listitem [ref=e1987]:
+              - link "Trousers" [ref=e1988] [cursor=pointer]:
+                - /url: /collections/trousers
+            - listitem [ref=e1989]:
+              - link "Suits" [ref=e1990] [cursor=pointer]:
+                - /url: /collections/classic-jackets
+      - generic [ref=e1992]:
+        - heading "OUR BRANDS" [level=2] [ref=e1993]
+        - generic [ref=e1994]:
+          - link "Z3 new arrivals" [ref=e1996] [cursor=pointer]:
+            - /url: /collections/z3-new-arrivals
+          - link "Zodiac new arrivals" [ref=e1998] [cursor=pointer]:
+            - /url: /collections/zodiac-new-arrivals
+          - link "Zod new arrivals" [ref=e2000] [cursor=pointer]:
+            - /url: /collections/zod-new-arrivals
+    - generic [ref=e2001]:
+      - generic [ref=e2003]:
+        - generic:
+          - generic [ref=e2004]: Payment methods
+          - list [ref=e2005]:
+            - listitem [ref=e2006]:
+              - img "UPI"
+      - list [ref=e2007]:
+        - listitem [ref=e2008]:
+          - link "Facebook" [ref=e2009] [cursor=pointer]:
+            - /url: https://www.facebook.com/zodiacclothing
+            - img [ref=e2011]
+            - generic [ref=e2013]: Facebook
+        - listitem [ref=e2014]:
+          - link "X (Twitter)" [ref=e2015] [cursor=pointer]:
+            - /url: https://x.com/zodiacclothing
+            - img [ref=e2017]
+            - generic [ref=e2019]: X (Twitter)
+        - listitem [ref=e2020]:
+          - link "linkedin" [ref=e2021] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/zodiac-clothing-company-ltd/
+            - img [ref=e2023]
+            - generic [ref=e2025]: linkedin
+        - listitem [ref=e2026]:
+          - link "YouTube" [ref=e2027] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/ZodiacClothing
+            - img [ref=e2029]
+            - generic [ref=e2031]: YouTube
+        - listitem [ref=e2032]:
+          - link "Instagram" [ref=e2033] [cursor=pointer]:
+            - /url: https://www.instagram.com/zodiacclothing/
+            - img [ref=e2035]
+            - generic [ref=e2037]: Instagram
+      - generic [ref=e2039]: Copyright 2026 Zodiac Clothing Company Limited. All rights reserved
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+        - generic:
+          - button "YOU MAY ALSO LIKE"
+  - generic:
+    - generic:
+      - generic:
+        - generic: Select Size
+        - generic:
+          - img
+```
